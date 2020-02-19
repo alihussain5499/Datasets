@@ -1,0 +1,6 @@
+"name","age","wgt","hgt","dbstat"
+aaa,28,67,6,high
+bbbb,26,67,6.0,high
+cccc,45,78,5.5,high
+dddd,50,80,5.7,high
+eeee,54,90,6.0,high

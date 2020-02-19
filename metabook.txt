@@ -1,0 +1,43 @@
+I have not made major changes to the book. I have extended
+and updated my story in the Introduction, and reorganized a little,
+adding a chapter and taking out two others that no longer fit well.
+Otherwise, I have simply reworked it a bit — adding, subtracting,
+and editing to bring it more into alignment with my current views.
+I have only modified it where I strongly felt it could be improved
+or made more accurate.
+At times, I had to fight the temptation to simply write a whole
+new book on the same subject! I comforted myself with the
+thought that readers interested in a more complete view of how my
+ideas have evolved can easily find it in one of my newer works,
+such as The Path of Transformation or Creating True Prosperity.
+Those of you who have read Living in the Light in the original
+version may notice a slightly different tone to the revised edition.
+At the time I wrote the book, I was filled with youthful enthusiasm
+for the power I was finding in these ideas and practices. A dozen
+years later, I’m as enthusiastic and committed to these ideas as ever,
+but I now have a healthy respect for the ongoing challenge of inte-
+grating them into our daily lives. So you may notice a somewhat
+humbler approach, acknowledging and honoring the complexities
+of life and the human journey.
+Whether you have read Living in the Light before and are curi-
+ous to read the revised version, or are a first-time reader, welcome!
+I hope you enjoy the book and find inspiration on your journey of
+self-discovery.
+At this point, the phrase living in the light has a
+deeper and subtler meaning for me than before. It refers to the
+consciousness and balance that comes into our lives as we become
+aware of, accept, and express the many aspects of who we are,
+including the parts that we may have feared and rejected.
+When I wrote this book, the millennium change was still years
+away. Now it is at hand, and the idea that we are creating a new
+world seems more relevant than ever.
+I would love to try or hear the sample audio your app can produce. I do not want to purchase, because I've purchased so many apps that say they do something and do not deliver.  
+
+Can you please add audio samples with text you've converted? I'd love to see the end results.
+
+Thanks!
+I just haven't had to handle so many files at once before--global coverage at 30m resolution.  I am hoping to write code so ArcMap can download the data from the web, or, that there is an existing tool in the Toolbox.  I would prefer an existing tool in the Toolbox but can definitely learn if need be--I have some experience in R, though not with this issue.
+
+ 
+
+Thanks for any help.@

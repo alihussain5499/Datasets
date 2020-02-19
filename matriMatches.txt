@@ -1,0 +1,5 @@
+"mname","msex","mage","minc","mcity","fname","fsex","fage","finc","fcity",
+Sandeep,m,25,50000,hyd,sandy,f,24,46000,hyd
+manoj,m,28,60000,del,sandy,f,24,46000,hyd
+venu,m,31,90000,del,trisha,f,28,80000,hyd
+venu,m,31,90000,del,srithi,f,28,75000,hyd

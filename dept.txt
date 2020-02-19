@@ -1,0 +1,5 @@
+"dno","dname","location"
+11,marketing,hyd
+12,hr,del
+13,finace,hyd
+14,admin,del

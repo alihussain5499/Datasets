@@ -1,0 +1,11 @@
+101,"aaaa",20000,"m",11,marketing,hyd
+102,"bbbb",30000,"f",12,hr,del
+103,"cccc",40000,"m",11,marketing,hyd
+104,"dddd",50000,"f",12,hr,del
+105,"eeee",60000,"m",13,finace,hyd
+106,"ffff",70000,"f",13,finace,hyd
+107,"gggg",80000,"m",14,admin,del
+108,"hhhh",90000,"f",14,admin,del
+109,"iiii",100000,"m",13,finace,hyd
+110,"jjjj",110000,"f",13,finace,hyd
+111,"kkkk",120000,"m",12,hr,del

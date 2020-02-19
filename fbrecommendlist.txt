@@ -1,0 +1,16 @@
+"User"	"people you may know "
+Ravi	Sita,Madhu,Sapna
+Rani	Venu,raju,Gita,sunny,Sapna,Akash,raja,boby
+babita	Venu,devil,raju,Gita,Sita,sunny,Madhu,Veni,boby
+Sita	Gita,Ravi,Madhu,Veni,babita
+devil	Venu,raju,sunny,Madhu,Veni,babita,boby
+Gita	raju,Rani,Sita,sunny,Sapna,Akash,raja,babita,boby
+Venu	devil,Rani,Sapna,sunny,Akash,raja,babita
+boby	devil,raju,Gita,Rani,sunny,Akash,Veni,raja,babita
+Veni	devil,raju,Sita,Sapna,Akash,raja,babita,boby
+sunny	Venu,devil,raju,Gita,Rani,Madhu,babita,boby
+Madhu	devil,raju,Sita,sunny,Ravi,babita
+raju	devil,Gita,Rani,sunny,Madhu,Veni,babita,boby
+Sapna	Venu,Gita,Rani,Ravi,Akash,raja,Veni
+Akash	Venu,Gita,Rani,Sapna,Veni,boby
+raja	Venu,Gita,Rani,Sapna,Veni,boby

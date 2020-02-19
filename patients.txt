@@ -1,0 +1,7 @@
+"name","age","wgt","hgt","diabetic"
+"aaaa",25,50,6.0,no
+"bbbb",30,55,5.9,no
+"cccc",24,60,5.9,yes
+"dddd",27,80,5.5,yes
+"eeee",34,90,5.6,yes
+"ffff",30,56,6.0,no

@@ -1,0 +1,11 @@
+"apid","name","sex","age","income","city"
+a1,Sandeep,m,25,50000,hyd
+a2,sandy,f,24,46000,hyd
+a3,kiran,m,30,70000,del
+a4,trisha,f,28,80000,hyd
+a5,manoj,m,28,60000,del
+a6,iliana,f,29,90000,pune
+a7,karthik,m,35,120000,blore
+a8,rakhul,f,26,80000,hyd
+a9,venu,m,31,90000,del
+a10,srithi,f,28,75000,hyd

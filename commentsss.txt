@@ -1,0 +1,9 @@
+i love you,pos
+i hate you,neg
+i kill you,neg
+i love to kill you,neg
+i admire you,pos
+no comments on you,neutral
+no words on you,neutral
+i hate you,neg
+i like you,pos

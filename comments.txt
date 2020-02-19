@@ -1,0 +1,9 @@
+i love you,pos
+i hate you,neg
+i kill you,neg
+no comment on you,pos
+no words about you,pos
+no feelings on you,neg
+i love to kill you,neg
+i admire you,pos
+i very much hate you,neg

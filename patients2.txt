@@ -1,0 +1,12 @@
+"name","age","wgt","hgt","diabetic"
+"aaaa",25,60,5.9,high
+"bbbb",26,67,6.0,moderate
+"cccc",45,78,5.5,high
+"dddd",56,80,5.9,low
+"eeee",55,81,6.0,low
+"ffff",56,79,5.11,moderate
+"gggg",55,79,5.4,high
+"iiii",56,89,5.9,high
+"hh",49,70,5.6,moderate
+"jjjj",49,75,5.6,high
+"kkkkk",52,80,5.7,high

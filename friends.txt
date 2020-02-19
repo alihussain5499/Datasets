@@ -1,0 +1,12 @@
+"user","friend"
+Ravi,Rani
+Sita,Rani
+Gita,Ravi
+Ravi,Venu
+Ravi,Veni
+Venu,Gita
+Venu,Ravi
+Veni,Venu
+Sapna,Madhu
+Madhu,Akash
+Madhu,Veni

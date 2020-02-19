@@ -1,0 +1,2 @@
+i like biryani , chicken , fish ,pos
+you hate x,y,z,neg
